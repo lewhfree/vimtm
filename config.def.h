@@ -50,14 +50,14 @@
 #define COMMAND_KEY 'g'
 
 /* The change focus keys. */
-#define MOVE_UP         CODE(KEY_UP)
-#define MOVE_DOWN       CODE(KEY_DOWN)
-#define MOVE_RIGHT      CODE(KEY_RIGHT)
-#define MOVE_LEFT       CODE(KEY_LEFT)
+#define MOVE_UP         KEY(L'k')
+#define MOVE_DOWN       KEY(L'j')
+#define MOVE_RIGHT      KEY(L'l')
+#define MOVE_LEFT       KEY(L'h')
 #define MOVE_OTHER      KEY(L'o')
 
 /* The split terminal keys. */
-#define HSPLIT KEY(L'h')
+#define HSPLIT KEY(L'n')
 #define VSPLIT KEY(L'v')
 
 /* The delete terminal key. */
