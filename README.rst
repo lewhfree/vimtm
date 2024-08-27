@@ -1,3 +1,12 @@
+**vimtm is just mtm, except the arrow keys are mapped to the following**
+Up Arrow -> k
+Down Arrow -> j
+Right Arrow -> l
+Left Arrow -> h
+h (to prevent collisions with the new binding) -> n
+
+Everything else is the same and can be installed the same way!
+
 Introduction
 ============
 
